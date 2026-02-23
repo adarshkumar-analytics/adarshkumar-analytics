@@ -50,13 +50,27 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adarshkumar-analytics&show_icons=true&theme=radical" width="60%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=adarshkumar-analytics&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshkumar-analytics&layout=compact&theme=radical&hide=html,css" width="48%"/>
 </p>
 
-<br>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adarshkumar-analytics&theme=radical" width="60%"/>
+</p>
+
+---
 
 ## 📊 Profile Summary
 
+<h2 align="center" style="color:#58A6FF;">
+  Profile Summary
+</h2>
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adarshkumar-analytics&theme=github_dark" width="95%"/>
+  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adarshkumar-analytics&theme=github_dark"/>
+</p>
+
+<p align="center">
+  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adarshkumar-analytics&theme=github_dark"/>
+  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adarshkumar-analytics&theme=github_dark&utcOffset=5.5"/>
 </p>
