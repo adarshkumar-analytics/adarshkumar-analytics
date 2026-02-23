@@ -2,10 +2,10 @@
 <h3 align="center">Aspiring Data Analyst | SQL | Power BI | Excel</h3>
 
 <ul>
-<li>Transforming raw data into actionable insights to support data-driven decision making.</li>
-<li>Proficient in SQL, Excel, and Power BI for data cleaning, analysis, and interactive dashboard development.</li>
-<li>Strong understanding of data manipulation, reporting, and business performance tracking.</li>
-<li>Continuously enhancing analytical thinking and problem-solving skills through hands-on projects.</li>
+<li>📊 Transforming raw data into actionable insights.</li>
+<li>🛠 Skilled in SQL, Excel & Power BI.</li>
+<li>📈 Building interactive dashboards & reports.</li>
+<li>🧠 Strong analytical & problem-solving mindset.</li>
 </ul>
 
 <p align="center"><b>🌐 Connect With Me</b></p>
