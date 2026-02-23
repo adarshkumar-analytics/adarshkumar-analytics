@@ -7,7 +7,7 @@
 <li>📈 Building interactive dashboards & reports.</li>
 <li>🧠 Strong analytical & problem-solving mindset.</li>
 </ul>
-
+----------------------------------------------------------------------------------------------------------------
 <p align="center"><b>🌐 Connect With Me</b></p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 </p>
-
+---------------------------------------------------------------------------------------------------------------
 <p align="center"><b>🛠 Tools & Technologies</b></p>
 
 <p align="center">
@@ -32,14 +32,14 @@
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
-
+----------------------------------------------------------------------------------------------------------------
 <h3>📊 GitHub Stats</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adarshkumar-analytics&show_icons=true&theme=radical" height="180em"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adarshkumar-analytics&theme=radical" height="180em"/>
 </p>
-
+------------------------------------------------------------------------------------------------------------------
 <h3>📈 Profile Summary</h3>
 
 <p align="center">
