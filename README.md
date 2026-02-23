@@ -7,7 +7,7 @@ Skilled in SQL, Excel, and Power BI for data cleaning, analysis, and dashboard c
 Continuously learning and improving problem-solving skills.
 </p>
 
-<h2 align="center">🌐 Connect With Me</h2>
+<p align="center"><b>🌐 Connect With Me</b></p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/adarsh-kumar-analytics/">LinkedIn</a> • 
@@ -16,7 +16,7 @@ Continuously learning and improving problem-solving skills.
 <a href="https://leetcode.com/">LeetCode</a>
 </p>
 
-<h2 align="center">🛠 Tools & Technologies</h2>
+<p align="center"><b>🛠 Tools & Technologies</b></p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge"/>
@@ -24,14 +24,14 @@ Continuously learning and improving problem-solving skills.
 <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
-<h2 align="center">📊 GitHub Stats</h2>
+<p align="center"><b>📊 GitHub Stats</b></p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adarshkumar-analytics&show_icons=true&theme=radical" height="180em"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adarshkumar-analytics&theme=radical" height="180em"/>
 </p>
 
-<h2 align="center">📈 Profile Summary</h2>
+<p align="center"><b>📈 Profile Summary</b></p>
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=adarshkumar-analytics&theme=radical" height="180em"/>
