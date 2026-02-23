@@ -37,17 +37,17 @@
 <h3>📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adarshkumar-analytics&show_icons=true&theme=radical" height="180em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adarshkumar-analytics&theme=radical" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=adarshkumar-analyst&show_icons=true&theme=radical" height="180em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adarshkumar-analyst&theme=radical" height="180em"/>
 </p>
 
 <h3>📈 Profile Summary</h3>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adarshkumar-analytics&theme=radical" height="180em"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adarshkumar-analytics&theme=radical&utcOffset=5.5" height="180em"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adarshkumar-analyst&theme=radical" height="180em"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adarshkumar-analyst&theme=radical&utcOffset=5.5" height="180em"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adarshkumar-analytics&theme=radical" width="90%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adarshkumar-analyst&theme=radical" width="90%"/>
 </p>
