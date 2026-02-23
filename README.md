@@ -8,7 +8,7 @@
 - 🎯 Goal: Become a job-ready Data Analyst  
 - 📫 Email: <b>adarshkr1291@gmail.com</b>
 <br>
- <h1 align="center">🛠️ Skills</h1>
+
 <p align="center">
 <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
@@ -32,7 +32,7 @@
 
 </p>
 <br>
-📊 GitHub Stats
+<h1 align="center" GitHub Stats</h1>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adarshkumar-analytics&show_icons=true&theme=radical" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshkumar-analytics&layout=compact&theme=radical&hide=html,css" width="48%"/>
@@ -42,7 +42,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adarshkumar-analytics&theme=radical" width="60%"/>
 </p>
 ---
- 📊 Profile Summary
+
 <h2 align="center" style="color:#58A6FF;">
   Profile Summary
 </h2>
