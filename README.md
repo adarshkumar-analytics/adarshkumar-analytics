@@ -7,7 +7,7 @@
 <li>📈 Building interactive dashboards & reports.</li>
 <li>🧠 Strong analytical & problem-solving mindset.</li>
 </ul>
-----------------------------------------------------------------------------------------------------------------
+          ------------------------------------------------------------
 <p align="center"><b>🌐 Connect With Me</b></p>
 
 <p align="center">
