@@ -21,7 +21,7 @@
 <a href="https://mavenshowcase.com/profile/18c1e3d0-8081-708c-e364-5ce6e7e3d307">
 <img src="https://img.shields.io/badge/Portfolio-FF6F00?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
-<a href="https://leetcode.com/">
+<a href="https://leetcode.com/u/adarsh_kumar_analyst/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 </p>
