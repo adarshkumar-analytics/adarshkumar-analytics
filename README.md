@@ -20,17 +20,6 @@
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adarshkumar-analytics&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adarshkumar-analytics&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adarshkumar-analytics&theme=radical)
-
----
-
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-kumar-analytics/)
@@ -41,8 +30,16 @@
 
 ---
 
-## 📚 Current Focus
+## 📊 GitHub Stats
 
-🔎 Practicing SQL regularly and building hands-on projects using SQL, Excel & Power BI.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adarshkumar-analytics&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adarshkumar-analytics&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adarshkumar-analytics&theme=radical)
+
+
+
+
 
 
