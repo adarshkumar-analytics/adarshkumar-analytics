@@ -32,6 +32,7 @@
 </p>
 <br>
 - Star
+<b>
 <h1 align="center" GitHub Stats</h1>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adarshkumar-analytics&show_icons=true&theme=radical" width="48%"/>
@@ -42,8 +43,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adarshkumar-analytics&theme=radical" width="60%"/>
 </p>
 
--Stats
+
 <h2 align="center" style="color:#58A6FF;">
+  Profile Summary
 </h2>
 
 <p align="center">
