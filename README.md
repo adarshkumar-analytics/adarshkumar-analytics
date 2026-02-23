@@ -21,37 +21,46 @@
 
 ---
 ## 🌐 Connect With Me
+
 ## 🌐 Connect With Me
 
-<p align="center">
-<a href="[PASTE_YOUR_LINKEDIN_LINK_HERE](https://www.linkedin.com/in/adarsh-kumar-analytics/)">
+<p align="center" style="font-size:18px;">
+
+<a href="https://www.linkedin.com/in/adarsh-kumar-analytics/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="[PASTE_YOUR_PORTFOLIO_LINK_HERE](https://mavenshowcase.com/profile/18c1e3d0-8081-708c-e364-5ce6e7e3d307)">
+<a href="https://mavenshowcase.com/profile/18c1e3d0-8081-708c-e364-5ce6e7e3d307" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge"/>
 </a>
 
-<a href="https://github.com/adarshkumar-analytics">
+<a href="https://github.com/adarshkumar-analytics" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="[PASTE_YOUR_LEETCODE_LINK_HERE](https://leetcode.com/u/adarsh_kumar_analyst/)">
+<a href="https://leetcode.com/u/adarsh_kumar_analyst/" target="_blank">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
+
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adarshkumar-analytics&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adarshkumar-analytics&show_icons=true&theme=radical" width="60%"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adarshkumar-analytics&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshkumar-analytics&layout=compact&theme=radical" width="60%"/>
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adarshkumar-analytics&theme=radical)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adarshkumar-analytics&theme=radical" width="60%"/>
+</p>
 
-## 📊 Profile Summary
+---------------------------------------------------------------------------------------------------------------------------------
 
 <h2 align="center" style="color:#58A6FF;">
   <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="20"/>
