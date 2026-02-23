@@ -73,8 +73,3 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adarshkumar-analytics&theme=github_dark&utcOffset=5.5" width="47%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adarshkumar-analytics&theme=github_dark" width="47%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adarshkumar-analytics&theme=github_dark" width="47%"/>
-</p>
-
