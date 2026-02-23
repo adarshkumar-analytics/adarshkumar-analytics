@@ -44,8 +44,11 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adarshkumar-analytics&theme=github_dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adarshkumar-analytics&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adarshkumar-analytics&theme=github_dark)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adarshkumar-analytics&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adarshkumar-analytics&theme=github_dark&utcOffset=5.5)
 
 
 
