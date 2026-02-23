@@ -1,20 +1,28 @@
 <h1 align="center">Hi 👋, I'm Adarsh Kumar</h1>
 <h3 align="center">Aspiring Data Analyst | SQL | Power BI | Excel</h3>
-<br>
 
 - 📊 Aspiring Data Analyst passionate about working with data  
 - 🧠 Applying SQL to solve real-world data problems  
 - 📈 Experienced with Excel & Power BI for dashboards & insights  
 - 🎯 Goal: Become a job-ready Data Analyst  
 - 📫 Email: <b>adarshkr1291@gmail.com</b>
-<br>
+
+---
+
+## 🛠 Tools
+<hr>
 
 <p align="center">
 <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-</a>
-<br>
+</p>
+
+---
+
+## 🌐 Connect
+<hr>
+
 <p align="center">
 <a href="https://www.linkedin.com/in/adarsh-kumar-analytics/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -28,12 +36,13 @@
 <a href="https://leetcode.com/u/adarsh_kumar_analyst/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
-
 </p>
-<br>
-- Star
-<b>
-<h1 align="center" GitHub Stats</h1>
+
+---
+
+<h2 align="left">📊 Stats</h2>
+<hr>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adarshkumar-analytics&show_icons=true&theme=radical" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshkumar-analytics&layout=compact&theme=radical&hide=html,css" width="48%"/>
@@ -43,10 +52,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adarshkumar-analytics&theme=radical" width="60%"/>
 </p>
 
+---
 
-<h2 align="center" style="color:#58A6FF;">
-  Profile Summary
-</h2>
+<h2 align="left">📈 Profile</h2>
+<hr>
 
 <p align="center">
   <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adarshkumar-analytics&theme=github_dark"/>
