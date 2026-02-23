@@ -5,12 +5,11 @@
 
 ## 🚀 About Me
 
-📊 Aspiring Data Analyst passionate about working with data  
-🧠 Applying SQL to solve real-world data problems and build practical projects 
-📈 Experienced with Excel and Power BI for data analysis & 
-   visualization  
-🎯 Goal: Become a job-ready Data Analyst  
-📫 Reach me at:adarshkr1291@gmail.com 
+- 📊 Aspiring Data Analyst passionate about working with data  
+- 🧠 Applying SQL to solve real-world data problems and build practical projects  
+- 📈 Experienced with Excel and Power BI for data analysis & visualization  
+- 🎯 Goal: Become a job-ready Data Analyst  
+- 📫 Reach me at:adarshkr1291@gmail.com 
 
 ---
 
