@@ -22,8 +22,6 @@
 ---
 ## 🌐 Connect With Me
 
-## 🌐 Connect With Me
-
 <p align="center" style="font-size:18px;">
 
 <a href="https://www.linkedin.com/in/adarsh-kumar-analytics/" target="_blank">
