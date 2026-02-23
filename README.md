@@ -21,12 +21,25 @@
 
 ---
 ## 🌐 Connect With Me
+## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-kumar-analytics/)
+<p align="center">
+<a href="[PASTE_YOUR_LINKEDIN_LINK_HERE](https://www.linkedin.com/in/adarsh-kumar-analytics/)">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge)](https://mavenshowcase.com/profile/18c1e3d0-8081-708c-e364-5ce6e7e3d307)
+<a href="[PASTE_YOUR_PORTFOLIO_LINK_HERE](https://mavenshowcase.com/profile/18c1e3d0-8081-708c-e364-5ce6e7e3d307)">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge"/>
+</a>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/adarsh_kumar_analyst/)
+<a href="https://github.com/adarshkumar-analytics">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="[PASTE_YOUR_LEETCODE_LINK_HERE](https://leetcode.com/u/adarsh_kumar_analyst/)">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+</p>
 
 ---
 
