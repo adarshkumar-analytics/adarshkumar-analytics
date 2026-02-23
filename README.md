@@ -38,7 +38,13 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adarshkumar-analytics&theme=radical)
 
+## 📊 Profile Summary
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adarshkumar-analytics&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adarshkumar-analytics&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adarshkumar-analytics&theme=github_dark)
 
 
 
