@@ -1,66 +1,47 @@
-- 👯 I’m eager to collaborate on **Data Analysis using Excel, Power BI for Visualization, and SQL for Database Interaction**
-- 💬 Ask me about **Excel, SQL, Power BI & Data Analysis Basics**
-- 📫 How to reach me **adarshkr1291@gmail.com**
-- 👨‍💻 All of my recent projects are available at **[Portfolio](https://mavenshowcase.com/profile/18c1e3d0-8081-708c-e364-5ce6e7e3d307)**
-- 📝 I frequently share insights on **[LinkedIn](https://www.linkedin.com/in/adarsh-kumar-analytics/)**
-- 🛠️ Tech Stack: **Excel**, **SQL**, **Power BI**, **Git**, **Basic Python**
-- 🔎 **See my continuous learning and improvement below**
+<h1 align="center">Hi 👋, I'm Adarsh Kumar</h1>
+<h3 align="center">Aspiring Data Analyst | SQL | Power BI | Excel</h3>
 
-<div>
-    <a href="https://www.linkedin.com/in/adarsh-kumar-analytics/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-    <a href="https://github.com/adarshkumar-analytics" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-    </a>
-    <a href="https://leetcode.com/u/adarsh_kumar_analyst/" target="_blank">
-        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white">
-    </a>
-</div>
+<p align="center">
+Passionate about turning raw data into meaningful insights.  
+Focused on Data Analysis using SQL, Excel, and Power BI to solve real-world problems and build impactful dashboards.
+</p>
+
+<p align="center">
+📫 Reach me at: <b>adarshkr1291@gmail.com</b>  
+👨‍💻 View my projects: 
+<a href="https://mavenshowcase.com/profile/18c1e3d0-8081-708c-e364-5ce6e7e3d307">Portfolio</a>  
+📝 Connect with me on 
+<a href="https://www.linkedin.com/in/adarsh-kumar-analytics/">LinkedIn</a>
+</p>
 
 ---
 
-<h3 align="left">Stars</h3>
+<h2 align="center">🛠 Tools & Technologies</h2>
 
-<img align="left" height="180em" 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshkumar-analytics&layout=compact&theme=2077" />
-
-<p>&nbsp;
-<img align="center" height="180em" 
-src="https://github-readme-stats.vercel.app/api?username=adarshkumar-analytics&show_icons=true&locale=en&theme=2077" />
+<p align="center">
+<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
-<p>
-<img align="center" height="180em" 
-src="https://github-readme-streak-stats.herokuapp.com/?user=adarshkumar-analytics&theme=2077" />
+---
+
+<h2 align="center">📊 GitHub Statistics</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adarshkumar-analytics&show_icons=true&theme=2077" height="180em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adarshkumar-analytics&theme=2077" height="180em"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-<h3 align="center">Statistics</h3>
+<h2 align="center">📈 Profile Overview</h2>
 
-<div align="center">
-<a href="https://github.com/adarshkumar-analytics">
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=adarshkumar-analytics&theme=2077" height="180em"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adarshkumar-analytics&theme=2077" height="180em"/>
+</p>
 
-<img align="center" 
-src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=adarshkumar-analytics&theme=2077" 
-height="180em" />
-
-<img align="center" 
-src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adarshkumar-analytics&theme=2077" 
-height="180em" />
-
-<img align="center" 
-src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adarshkumar-analytics&theme=2077" 
-height="180em" />
-
-<img align="center" 
-src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adarshkumar-analytics&theme=2077" 
-height="180em" />
-
-<img align="center" 
-src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adarshkumar-analytics&theme=2077" 
-height="180em" />
-
-</a>
-</div>
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adarshkumar-analytics&theme=2077" width="90%"/>
+</p>
