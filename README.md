@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Adarsh Kumar</h1>
 <h3 align="center">Aspiring Data Analyst | SQL | Power BI | Excel</h3>
 
-<p align="center">
-Passionate about transforming raw data into meaningful insights.
-Skilled in SQL, Excel, and Power BI for data cleaning, analysis, and dashboard creation.
-Continuously learning and improving problem-solving skills.
-</p>
+<ul>
+<li>Transforming raw data into actionable insights to support data-driven decision making.</li>
+<li>Proficient in SQL, Excel, and Power BI for data cleaning, analysis, and interactive dashboard development.</li>
+<li>Strong understanding of data manipulation, reporting, and business performance tracking.</li>
+<li>Continuously enhancing analytical thinking and problem-solving skills through hands-on projects.</li>
+</ul>
 
 <p align="center"><b>🌐 Connect With Me</b></p>
 
