@@ -2,9 +2,11 @@
 <h3 align="center">Aspiring Data Analyst | SQL | Power BI | Excel</h3>
 
 <ul>
-<li>📊 Transforming raw data into actionable insights.</li>
-<li>🛠 Skilled in SQL, Excel & Power BI.</li>
-<li>📈 Building interactive dashboards & reports.</li>
+<li>👯 I’m eager to collab on Analysis using Excel, Power BI for Visualization, Database interaction with MySQL.</li>
+<li>💬 Ask me about Excel, SQL & Power BI.</li>
+<li>📈 Building interactive dashboards & reports.</li>         
+<li>- 📫 How to reach me **adarshkr1291@gmail.com**
+ <li>🛠 Skilled in SQL, Excel & Power BI.</li>        
 <li>🧠 Strong analytical & problem-solving mindset.</li>
 </ul>
          
