@@ -60,23 +60,21 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
-<h2 align="center" style="color:#58A6FF;">
-  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="20"/>
-  Profile Summary
+<h2 align="center">
+  📊 Profile Summary
 </h2>
 
 <p align="center">
-  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adarshkumar-analytics&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adarshkumar-analytics&theme=github_dark" width="95%"/>
 </p>
 
 <p align="center">
-  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adarshkumar-analytics&theme=github_dark"/>
-  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adarshkumar-analytics&theme=github_dark&utcOffset=5.5"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adarshkumar-analytics&theme=github_dark" width="47%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adarshkumar-analytics&theme=github_dark&utcOffset=5.5" width="47%"/>
 </p>
 
 <p align="center">
-  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adarshkumar-analytics&theme=github_dark"/>
-  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adarshkumar-analytics&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adarshkumar-analytics&theme=github_dark" width="47%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adarshkumar-analytics&theme=github_dark" width="47%"/>
 </p>
-
 
