@@ -12,10 +12,10 @@
 <p align="center"><b>🌐 Connect With Me</b></p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/adarsh-kumar-analytics/">
+<a href="https://www.linkedin.com/in/adarshkumar-analyst/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://github.com/adarshkumar-analytics">
+<a href="https://github.com/adarshkumar-analyst">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://mavenshowcase.com/profile/18c1e3d0-8081-708c-e364-5ce6e7e3d307">
