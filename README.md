@@ -15,7 +15,6 @@
 <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </a>
 <br>
-<h1 align="center">🌐 Connect With Me</h1>
 <p align="center">
 <a href="https://www.linkedin.com/in/adarsh-kumar-analytics/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
