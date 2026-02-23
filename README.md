@@ -44,10 +44,10 @@
 <h3>📈 Profile Summary</h3>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=adarshkumar-analytics&theme=radical" height="180em"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adarshkumar-analytics&theme=radical" height="180em"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adarshkumar-analytics&theme=radical" height="180em"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adarshkumar-analytics&theme=radical&utcOffset=5.5" height="180em"/>
 </p>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adarshkumar-analytics&theme=radical" width="90%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adarshkumar-analytics&theme=radical" width="90%"/>
 </p>
