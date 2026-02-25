@@ -9,7 +9,7 @@
 <li>🧠 Strong analytical & problem-solving mindset.</li>
 </ul>
          
-<p align="center"><b>🌐 Connect With Me</b></p>
+<p align="center"><b>See my continious learning and improvement below</b></p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/adarshkumar-analyst/">
@@ -23,6 +23,9 @@
 </a>
 <a href="https://leetcode.com/u/adarsh_kumar_analyst/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+<a href="https://www.hackerrank.com/profile/adarshkr1291">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 </p>
 
